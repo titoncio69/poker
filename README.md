@@ -2,7 +2,7 @@
 
 
 ![npm](https://img.shields.io/badge/Java-1.8-orange) 
-![npm](https://img.shields.io/badge/Spring Boot-2.5.3-blue)
+![npm](https://img.shields.io/badge/SpringBoot-2.5.3-blue)
 
 - Es necesario importar el proyecto como proyecto de springboot para ejecutarlo, al iniciarlo se ejecutara en el puerto 8081 quedando de la siguiente manera la url:
 
